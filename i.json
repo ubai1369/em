@@ -1,14 +1,16 @@
-[
-  {
-     "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/2.jpg"
-  },
-  {
-     "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/3.jpg"
-  },
-  {
-     "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/1.jpg"
-  },
-  {
-     "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/0.jpg"
-  }
-]
+{
+  "images" : [
+    {
+       "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/2.jpg"
+    },
+    {
+       "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/3.jpg"
+    },
+    {
+       "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/1.jpg"
+    },
+    {
+       "url": "https://raw.githubusercontent.com/ubai1369/em/refs/heads/main/0.jpg"
+    }
+  ]
+}

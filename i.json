@@ -1,27 +1,22 @@
 [
   {
-     "i": 0,
-     "u": "",
-     "d": "Satu",
+     "url": "",
+     "desc": "Satu",
   },
   {
-     "i": 1,
-     "u": "",
-     "d": "Dua",
+     "url": "",
+     "desc": "Dua",
   },
   {
-     "i": 2,
-     "u": "",
-     "d": "Tiga",
+     "url": "",
+     "desc": "Tiga",
   },
   {
-     "i": 3,
-     "u": "",
-     "d": "Empat",
+     "url": "",
+     "desc": "Empat",
   },
   {
-     "i": 4,
-     "u": "",
-     "d": "Lima",
+     "url": "",
+     "desc": "Lima",
   }
 ]
